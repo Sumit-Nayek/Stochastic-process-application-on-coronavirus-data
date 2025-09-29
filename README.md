@@ -24,6 +24,3 @@ The study focuses on how stochastic modeling can provide deeper insights into th
 - **Random Variables & Probability Distributions**  
 - **Simulation of Infection Spread**  
 
----
-
-## 📂 Repository Structure
