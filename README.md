@@ -1,4 +1,4 @@
-# 📊 Stochastic Process Application on Coronavirus Data
+# Stochastic Process Application on Coronavirus Data
 
 ## 📌 Project Overview
 This project explores the **application of stochastic processes** to model and analyze the spread of **COVID-19**.  
